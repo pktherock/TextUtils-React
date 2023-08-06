@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TextUtils-React/static/css/main.f52b03c1.chunk.css",
-    "main.js": "/TextUtils-React/static/js/main.8a44cabf.chunk.js",
-    "main.js.map": "/TextUtils-React/static/js/main.8a44cabf.chunk.js.map",
-    "runtime-main.js": "/TextUtils-React/static/js/runtime-main.8c122e4d.js",
-    "runtime-main.js.map": "/TextUtils-React/static/js/runtime-main.8c122e4d.js.map",
-    "static/js/2.c863b31e.chunk.js": "/TextUtils-React/static/js/2.c863b31e.chunk.js",
-    "static/js/2.c863b31e.chunk.js.map": "/TextUtils-React/static/js/2.c863b31e.chunk.js.map",
-    "static/js/3.122aa043.chunk.js": "/TextUtils-React/static/js/3.122aa043.chunk.js",
-    "static/js/3.122aa043.chunk.js.map": "/TextUtils-React/static/js/3.122aa043.chunk.js.map",
-    "index.html": "/TextUtils-React/index.html",
-    "static/css/main.f52b03c1.chunk.css.map": "/TextUtils-React/static/css/main.f52b03c1.chunk.css.map",
-    "static/js/2.c863b31e.chunk.js.LICENSE.txt": "/TextUtils-React/static/js/2.c863b31e.chunk.js.LICENSE.txt"
+    "main.css": "/pktherock/TextUtils-React.git/static/css/main.f52b03c1.chunk.css",
+    "main.js": "/pktherock/TextUtils-React.git/static/js/main.38d42078.chunk.js",
+    "main.js.map": "/pktherock/TextUtils-React.git/static/js/main.38d42078.chunk.js.map",
+    "runtime-main.js": "/pktherock/TextUtils-React.git/static/js/runtime-main.fd01b78d.js",
+    "runtime-main.js.map": "/pktherock/TextUtils-React.git/static/js/runtime-main.fd01b78d.js.map",
+    "static/js/2.4c1ab742.chunk.js": "/pktherock/TextUtils-React.git/static/js/2.4c1ab742.chunk.js",
+    "static/js/2.4c1ab742.chunk.js.map": "/pktherock/TextUtils-React.git/static/js/2.4c1ab742.chunk.js.map",
+    "static/js/3.42857548.chunk.js": "/pktherock/TextUtils-React.git/static/js/3.42857548.chunk.js",
+    "static/js/3.42857548.chunk.js.map": "/pktherock/TextUtils-React.git/static/js/3.42857548.chunk.js.map",
+    "index.html": "/pktherock/TextUtils-React.git/index.html",
+    "static/css/main.f52b03c1.chunk.css.map": "/pktherock/TextUtils-React.git/static/css/main.f52b03c1.chunk.css.map",
+    "static/js/2.4c1ab742.chunk.js.LICENSE.txt": "/pktherock/TextUtils-React.git/static/js/2.4c1ab742.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c122e4d.js",
-    "static/js/2.c863b31e.chunk.js",
+    "static/js/runtime-main.fd01b78d.js",
+    "static/js/2.4c1ab742.chunk.js",
     "static/css/main.f52b03c1.chunk.css",
-    "static/js/main.8a44cabf.chunk.js"
+    "static/js/main.38d42078.chunk.js"
   ]
 }
